@@ -44,7 +44,7 @@ public class SaboteurBoardPanel extends BoardPanel implements MouseListener, Mou
                 System.out.println("problem loading images, at");
                 URL url = getClass().getResource("tiles");
                 String basePath = ((URL) url).getPath();
-                System.out.println(basePath + "\\" + name + ".png");
+                System.out.println(basePath + "/" + name + ".png");
             }
             this.Height = img.getHeight();
             this.Width = img.getWidth();

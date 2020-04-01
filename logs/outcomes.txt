@@ -1,0 +1,5 @@
+1,alex,Human,1,Human,34,game00001.log,
+2,RandomPlayer,alex,0,RandomPlayer,7,game00002.log,TIMEOUT
+3,RandomPlayer,alex,GAMEOVER DRAW,NOBODY,56,game00003.log,
+4,alex,RandomPlayer,GAMEOVER DRAW,NOBODY,56,game00004.log,
+5,RandomPlayer,alex,GAMEOVER DRAW,NOBODY,56,game00005.log,
